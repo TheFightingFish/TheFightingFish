@@ -1,0 +1,3 @@
+- Hi, I'm @TheFightingFish! Pronouns: He/Him
+- Still trying to learn how to code better
+- Love Valve games such as counter-strike! Trying to make a game based on the 1.6 source code!
